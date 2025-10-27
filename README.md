@@ -26,7 +26,7 @@ Bookify provides a feature-rich experience for both buyers and sellers:
 
 ## 💻 Technology Stack
 
-Bookify is built using a modern technology stack. *(Adjust this list to match your actual technologies!)*
+Bookify is built using a modern technology stack. 
 
 | Layer | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -50,58 +50,17 @@ You will need the following software installed:
 * **npm** (or yarn)
 * A running instance of your **Database** (e.g., PostgreSQL, MongoDB).
 
-### Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/bookify.git](https://github.com/your-username/bookify.git)
-    cd bookify
-    ```
 
-2.  **Install dependencies (Backend & Frontend):**
-    ```bash
-    # Install server dependencies
-    npm install
 
-    # If you have a separate client/frontend folder:
-    cd client 
-    npm install
-    cd ..
-    ```
-
-3.  **Configure environment variables:**
-    Create a file named **`.env`** in the project root directory and add your configuration details:
-
-    ```
-    PORT=5000
-    DATABASE_URL="your_database_connection_string"
-    JWT_SECRET="a_very_strong_secret_key"
-    STRIPE_SECRET_KEY="sk_live_xxxx"
-    ```
-
-4.  **Start the application:**
-
-    * **Run the Backend API:**
-        ```bash
-        npm run server
-        # The API should now be running on http://localhost:5000
-        ```
-    * **Run the Frontend Client:**
-        ```bash
-        cd client
-        npm start
-        # The website should open on http://localhost:3000
-        ```
-
----
 
 ## 🤝 Contributing
 
 We welcome contributions! If you have suggestions, find a bug, or want to add a feature, please feel free to open an issue or submit a pull request.
 
 1.  **Fork** the project.
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+2.  Create  feature branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit  changes (`git commit -m `).
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a **Pull Request**.
 
@@ -109,4 +68,5 @@ We welcome contributions! If you have suggestions, find a bug, or want to add a 
 
 ## 📧 Contact
 
-Vishnu Verma – **[Ui22ec86@iiitsurat.ac.in]**
+Vishnu Verma
+**[Ui22ec86@iiitsurat.ac.in]**
