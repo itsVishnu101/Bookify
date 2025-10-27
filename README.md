@@ -44,7 +44,7 @@ Follow these steps to get a local copy of Bookify up and running on your machine
 
 ### Prerequisites
 
-You will need the following software installed:
+The following software need to be installed:
 
 * **Node.js** (LTS version recommended)
 * **npm** (or yarn)
