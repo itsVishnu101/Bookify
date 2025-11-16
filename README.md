@@ -1,4 +1,5 @@
 
+
 # 📚 Bookify – A Smart Book Resale Platform
 
 Bookify is a full-stack web application designed to simplify the process of **buying and selling used books** online. It connects book lovers, students, and readers who wish to resell their old books or purchase affordable pre-owned copies — all in one clean, responsive platform.
