@@ -158,3 +158,14 @@ This project is licensed under the **MIT License** – feel free to use and modi
 Thanks to all open-source libraries and resources that made this project possible.
 
 > Made by [**Vishnu Verma**](https://github.com/itsVishnu101)
+
+<!-- Glassmorphism -->
+<div align="left" style="display:flex; gap:12px; align-items:center;">
+  <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank" style="text-decoration:none; border-radius:12px; padding:6px 10px; background:rgba(255,255,255,0.06); backdrop-filter: blur(6px); display:inline-block;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:ui22ec86@iiitsurat.ac.in" style="text-decoration:none; border-radius:12px; padding:6px 10px; background:rgba(255,255,255,0.06); backdrop-filter: blur(6px); display:inline-block;">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
