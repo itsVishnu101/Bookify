@@ -160,5 +160,5 @@ Thanks to all open-source libraries and resources that made this project possibl
 
 > Made by [**Vishnu Verma**](https://github.com/itsVishnu101)
 >
-> [**LinkedIn**](https://www.linkedin.com/in/its-vishnu-verma/)
+> [**LinkedIn Profile**](https://www.linkedin.com/in/its-vishnu-verma/)
 
