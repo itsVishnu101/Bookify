@@ -159,6 +159,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 Thanks to all open-source libraries and resources that made this project possible.
 
 > Made by [**Vishnu Verma**](https://github.com/itsVishnu101)
-
-> [**linkedin**](https://www.linkedin.com/in/its-vishnu-verma/)
+>
+> [**LinkedIn**](https://www.linkedin.com/in/its-vishnu-verma/)
 
