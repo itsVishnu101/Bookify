@@ -141,7 +141,7 @@ Your app will be live at
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribution
 
 Contributions are welcome!
 If you’d like to contribute, fork this repository and submit a pull request.
