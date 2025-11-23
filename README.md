@@ -158,7 +158,7 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 Thanks to all open-source libraries and resources that made this project possible.
 
-> Made by [**Vishnu Verma**](https://github.com/itsVishnu101)
+> Made with 💛[**Vishnu Verma**](https://github.com/itsVishnu101)
 >
 > [**LinkedIn Profile**](https://www.linkedin.com/in/its-vishnu-verma/)
 
