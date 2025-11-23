@@ -154,7 +154,7 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 
-##  Acknowledgements
+##  ✨ Acknowledgements
 
 Thanks to all open-source libraries and resources that made this project possible.
 
